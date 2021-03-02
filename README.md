@@ -12,5 +12,5 @@ Import & Visualize the Data
 - Created a legend that will provide context for your map data,
 - Visualization the map.
 
-
+![image](https://user-images.githubusercontent.com/63757160/109662115-50d95880-7b30-11eb-8de5-2b4c320f1160.png)
 
